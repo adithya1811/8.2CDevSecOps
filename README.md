@@ -1,4 +1,4 @@
-My name is Adithya 
+My name is Adithya Subramani Srinivasan
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
